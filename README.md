@@ -5,34 +5,26 @@ I'm Chonticha, a college student with a passion for software engineering and exp
 ## Technical Skills
 
 ### Frontend Development:
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,html,css,tailwind)](https://skillicons.dev)
 ### Backend Development:
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ### Database Management:
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Containerization and Deployment:
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,vercel)](https://skillicons.dev)
 
 ## Tools Used
 
 ### Integrated Development Environments (IDEs):
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ### API Testing and Documentation:
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ### Version Control:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### Database Management:
 - ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -42,7 +34,7 @@ I'm Chonticha, a college student with a passion for software engineering and exp
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Design and Prototyping:
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Network Analysis:
 - ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
