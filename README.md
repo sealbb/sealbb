@@ -14,5 +14,3 @@ I'm Chonticha, a college student with a passion for software engineering and exp
 
 ### Containerization and Deployment:
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,vercel)](https://skillicons.dev)
-
-Feel free to connect with me and explore my projects! 😄
